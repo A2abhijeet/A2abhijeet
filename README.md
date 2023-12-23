@@ -14,12 +14,12 @@
 
 - 🔭 I’m currently working on [Free_learning_for-engineerig](https://github.com/A2abhijeet/InnovixionTech-Nov-task3)
 
-- 🌱 I’m currently learning **Spring, Hibernate, Spring Boot ,React js ,Node js**
-- 💬 Ask me about **Java,JavaScript,C,HTML,CSS**
+- 🌱 I’m currently learning **PHP,React js ,Node js**
+- 💬 Ask me about **C++JavaScript,C,HTML,CSS**
 
 - 🔭 I’m currently working on [explore new things](https://github.com/A2abhijeet)
 
-- 👨‍💻 All of my projects are available at [https://github.com/TrickyVikram/Selflearning](https://github.com/TrickyVikram/Selflearning)
+- 👨‍💻 All of my projects are available at [https://github.com/A2abhijeet](https://github.com/A2abhijeet)
 
 - ⚡ Fun fact. **I think I am funny .**
 [![An image of @trickyvikram's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/trickyvikram)](https://holopin.io/@trickyvikram)
