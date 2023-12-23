@@ -8,16 +8,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trickyvikram&label=Profile%20views&color=0e75b6&style=flat" alt="trickyvikram" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trickyvikram" alt="trickyvikram" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/A2abhijeet" alt="A2abhijeet" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vikramkr" target="blank"><img src="https://img.shields.io/twitter/follow/vikramkr?logo=twitter&style=for-the-badge" alt="vikramkr" /></a> </p>
 
-- 🔭 I’m currently working on [Free_learning_for-engineerig](https://github.com/TrickyVikram/Free_learning_for-engineerig)
+- 🔭 I’m currently working on [Free_learning_for-engineerig](https://github.com/A2abhijeet/InnovixionTech-Nov-task3)
 
 - 🌱 I’m currently learning **Spring, Hibernate, Spring Boot ,React js ,Node js**
 - 💬 Ask me about **Java,JavaScript,C,HTML,CSS**
 
-- 🔭 I’m currently working on [explore new things](https://github.com/TrickyVikram/Selflearning)
+- 🔭 I’m currently working on [explore new things](https://github.com/A2abhijeet)
 
 - 👨‍💻 All of my projects are available at [https://github.com/TrickyVikram/Selflearning](https://github.com/TrickyVikram/Selflearning)
 
