@@ -22,7 +22,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/A2abhijeet](https://github.com/A2abhijeet)
 
 - ⚡ Fun fact. **I think I am funny .**
-[![An image of @trickyvikram's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/trickyvikram)](https://holopin.io/@trickyvikram)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
